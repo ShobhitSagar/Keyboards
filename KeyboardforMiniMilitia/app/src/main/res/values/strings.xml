@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Keyboard for Mini Militia</string>
+    <string name="description">Set your default keyboard as Keyboard for Mini Militia</string>
+    <string name="sybtype_en_US">English (United States)</string>
+</resources>

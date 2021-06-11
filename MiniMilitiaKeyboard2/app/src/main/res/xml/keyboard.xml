@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Keyboard xmlns:android="http://schemas.android.com/apk/res/android"
+    android:keyWidth="20%p"
+    android:horizontalGap="15px"
+    android:verticalGap="15px"
+    android:keyHeight="70dp">
+
+    <Row>
+        <Key android:codes="1" android:keyLabel="BI" />
+        <Key android:codes="3" android:keyLabel="RU"/>
+        <Key android:codes="5" android:keyLabel="NN" />
+        <Key android:codes="2" android:keyLabel="LG"/>
+        <Key android:codes="8" android:keyLabel="CB" />
+    </Row>
+
+    <Row>
+        <Key android:codes="12" android:keyLabel="GM" />
+        <Key android:codes="7" android:keyLabel="CM"/>
+        <Key android:codes="6" android:keyLabel="HH"/>
+        <Key android:codes="13" android:keyLabel="NS" />
+        <Key android:codes="10" android:keyLabel="WP" />
+    </Row>
+    <Row>
+        <Key android:codes="222" android:keyIcon="@drawable/ic_keyboard_black_24dp" />
+        <Key android:codes="11" android:keyLabel="GG" />
+        <Key android:codes="9" android:keyLabel="MO" />
+        <Key android:codes="4" android:keyLabel="GS" />
+        <Key android:codes="222" android:keyIcon="@drawable/ic_keyboard_black_24dp" />
+    </Row>
+
+</Keyboard>
